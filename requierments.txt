@@ -1,0 +1,14 @@
+Reqd. for Streamlit hosted excel webapp:
+openpyxl==3.0.10
+plotly==4.14.3
+pandas==1.4.3
+streamlit==1.12.0
+Pillow==9.2.0
+
+Check what ver do I have?
+cmd>pip3 list
+
+Run the script in the same folder by:
+
+python -m streamlit run app.py
+(app.py is the file name)
